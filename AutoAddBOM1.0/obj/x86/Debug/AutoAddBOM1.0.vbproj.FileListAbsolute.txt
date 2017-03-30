@@ -1,0 +1,14 @@
+E:\Edward\AutoAddBOM1.0\AutoAddBOM1.0\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Edward\AutoAddBOM1.0\AutoAddBOM1.0\obj\x86\Debug\AutoAddBOM.Resources.resources
+E:\Edward\AutoAddBOM1.0\AutoAddBOM1.0\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+E:\Edward\AutoAddBOM1.0\AutoAddBOM1.0\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+E:\Edward\AutoAddBOM1.0\AutoAddBOM1.0\bin\Debug\AutoAddBOM1.1.exe
+E:\Edward\AutoAddBOM1.0\AutoAddBOM1.0\bin\Debug\AutoAddBOM1.1.pdb
+E:\Edward\AutoAddBOM1.0\AutoAddBOM1.0\bin\Debug\AutoAddBOM1.1.xml
+E:\Edward\AutoAddBOM1.0\AutoAddBOM1.0\obj\x86\Debug\AutoAddBOM1.1.exe
+E:\Edward\AutoAddBOM1.0\AutoAddBOM1.0\obj\x86\Debug\AutoAddBOM1.1.xml
+E:\Edward\AutoAddBOM1.0\AutoAddBOM1.0\obj\x86\Debug\AutoAddBOM1.1.pdb
+E:\Edward\AutoAddBOM1.0\AutoAddBOM1.0\obj\x86\Debug\AutoAddBOM.frmAutoAddBom.resources
+E:\Edward\AutoAddBOM1.0\AutoAddBOM1.0\obj\x86\Debug\AutoAddBOM.frmChangeTestplan.resources
+E:\Edward\AutoAddBOM1.0\AutoAddBOM1.0\obj\x86\Debug\GenerateResource-ResGen.read.4.tlog
+E:\Edward\AutoAddBOM1.0\AutoAddBOM1.0\obj\x86\Debug\GenerateResource-ResGen.write.4.tlog
